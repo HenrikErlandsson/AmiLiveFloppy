@@ -8,4 +8,4 @@ A community-driven project for a small standard platform supporting live floppie
 - A separate file browser which allows creating, copying, renaming, deleting, and setting the flags of files, relabeling floppy disks, and editing files in text and hexadecimal, with a monitor function.
 
 # Release
-The GitHub release will take the form of a live floppy image containing the bootblock and the utility programs.
+The GitHub release will be a live floppy image containing the bootblock and the utility programs.
